@@ -1,0 +1,40 @@
+.reg{ 
+    margin-top: 100px;
+    height: 48g 0px; 
+    width: 370px;  
+    border-color: black;
+    background-color: rgb(132, 143, 166,0.2); 
+    color: white;
+}
+#f1{  
+    margin-left: 65px;
+} 
+#f2{
+    margin-left: 65px;
+} 
+#f3{
+    margin-left: 55px;
+}
+#f4{
+    margin-left: 80px;
+}
+#f5{
+    margin-left: 55px;
+}
+#f6{
+    margin-left: 75px;
+}
+#f7{
+    margin-left: 60px;
+}
+#f8{
+    margin-left: 10px; 
+}
+/*input:required{
+    border: 4px dashed blue 
+} */
+button:hover{
+            cursor: pointer;
+            background-color: black;
+            color: aqua;
+}
